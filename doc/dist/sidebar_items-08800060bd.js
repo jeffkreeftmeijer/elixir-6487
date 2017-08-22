@@ -1,1 +1,0 @@
-sidebarNodes={"extras":[{"id":"api-reference","title":"API Reference","group":"","headers":[{"id":"Modules","anchor":"modules"}]}],"exceptions":[],"modules":[{"id":"Foo","title":"Foo","functions":[{"id":"hello/2","anchor":"hello/2"},{"id":"hi/2","anchor":"hi/2"}]}],"protocols":[],"tasks":[]}
